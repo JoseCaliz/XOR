@@ -1,0 +1,4 @@
+[core]
+    remote = mydrive
+['remote "mydrive"']
+    url = gdrive://1zpkoc5qF9qnZKTwKqVNaaSOfTp0UQh-K/dvcstore

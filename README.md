@@ -1,11 +1,15 @@
-<<<<<<< HEAD
 # XOR
 Reinforcement Learning XOR problem
-=======
-python-ml-structure
-==============================
 
-a template for python ml dev
+## Problem Description
+
+
+## Generating Dataset
+
+```
+ python src/data/make_xor_problem_dataset.py -s 100000 --variable_length ./data/processed/binary_sequences_variable_length.csv
+ ```
+
 
 Project Organization
 ------------
@@ -59,5 +63,3 @@ Project Organization
 
 
 --------
-
->>>>>>> 48687f06cd760a90d9ab81d266a91004fdb36931
