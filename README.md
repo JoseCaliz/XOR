@@ -7,6 +7,7 @@ Reinforcement Learning XOR problem
 ## Generating Dataset
 
 ```
+ python src/data/make_xor_problem_dataset.py -s 100000 ./data/processed/binary_sequences_variable_length.csv
  python src/data/make_xor_problem_dataset.py -s 100000 --variable_length ./data/processed/binary_sequences_variable_length.csv
  ```
 
